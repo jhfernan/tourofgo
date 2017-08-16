@@ -1,13 +1,12 @@
-package main
+package varandfuncs
 
 import (
 	"fmt"
 	"log"
 	"math"
-	"flow"
 )
 
-func main() {
+func RunSomeExamples() {
 	a := "Hello, world!"
 
 	fmt.Println(a)
